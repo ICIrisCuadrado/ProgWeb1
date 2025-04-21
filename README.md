@@ -5,7 +5,8 @@ Integrantes:
 Marcelo Rivero,
 Natalia Lopez,
 Thomas Acevedo,
-Vega Lisandro
+Vega Lisandro,
+Iris Cuadrado
 
 Primer maquetado usando https://bootswatch.com/spacelab/
 En principio la temática es un sitio de ventas online.
